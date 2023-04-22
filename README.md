@@ -1,2 +1,2 @@
 # Hydac 
-This is our first project and we collaborated with HYDAC on a case to develop a check-in check-out system for the company's employees. The primary  focus was system development as well as basic OOP in C#. The console application had  to have good structure and be able to convert data. We also persisted data in a textfile.
+For our first semester project, we worked with HYDAC on a case to create a check-in check-out system for their employees. We focused on developing the system using basic OOP principles in C#. The application is a simple console program with a straightforward structure, capable of converting and persisting data in a text file.
